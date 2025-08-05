@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요, 저는 바이브코딩을 좋아하는 윤명희입니다. 👋
 
 <!--
 **Yoon-light/Yoon-light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
